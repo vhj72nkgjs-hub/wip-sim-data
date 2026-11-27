@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "AI-Hydrant 001",
+        "Status": "Simulated",
+        "Pressure_PSI": 78,
+        "Flow_GPM": 125,
+        "Pipe_Condition": "Good",
+        "Leak_Detection": "No leak detected",
+        "Battery_Percent": 98
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.625, 40.125]
+      }
+    }
+  ]
+}
