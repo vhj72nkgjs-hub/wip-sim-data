@@ -1,0 +1,29 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "pipe_id": "P1",
+        "name": "WIP SIM Research Pipe",
+        "diameter_in": 7,
+        "length_ft": 1000,
+        "flow_gpm": 1000,
+        "pressure_psi": 42.7125,
+        "velocity_fps": 8.3367,
+        "roughness_hw": 80,
+        "status": "Open",
+        "source": "EPANET",
+        "data_type": "Simulation"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-79.8300, 41.3970],
+          [-79.8264, 41.3970]
+        ]
+      }
+    }
+  ]
+}
